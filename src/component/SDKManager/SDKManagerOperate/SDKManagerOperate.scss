@@ -1,0 +1,35 @@
+.sdk_operate {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+
+  &_search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+
+    .ant-input-search {
+      width: 350px;
+    }
+    > button {
+      margin-left: 16px;
+      background: #213f02;
+      color: #fff;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      align-content: center;
+
+      svg {
+        fill: #fff;
+        width: 24px;
+        height: 24px;
+        margin-right: 4px;
+      }
+    }
+  }
+}

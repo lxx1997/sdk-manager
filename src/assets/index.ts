@@ -1,0 +1,5 @@
+export { ReactComponent as OpenNewIcon } from "./ESM@iconset_New.svg"
+export { ReactComponent as DeleteIcon } from "./ESM@iconset_Delete.svg"
+export { ReactComponent as EditIcon } from "./ESM@iconset_Edit.svg"
+export { ReactComponent as SDKIcon } from "./ICON2_API.svg"
+export { ReactComponent as SearchIcon } from "./ESM@iconset_Search.svg"
